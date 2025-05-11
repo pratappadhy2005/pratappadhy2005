@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://developertoarchitect.com/lessons/](https://developertoarchitect.com/lessons/)
 
-- 💬 Ask me about **Java, Spring, Docker, Kubernetes, Pythin, React, Node**
+- 💬 Ask me about **Java, Spring, Docker, Kubernetes, Python, React,AI, ML, Deep Learning. NLP, Node**
 
 - 📫 How to reach me **https://www.linkedin.com/in/pratappadhy/**
 
