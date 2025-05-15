@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratappadhy2005" alt="pratappadhy2005" /></a> </p>
 
-- 📝 I regularly write articles on [https://developertoarchitect.com/lessons/](https://developertoarchitect.com/lessons/)
+- 📝 I regularly read articles on [https://developertoarchitect.com/lessons/](https://developertoarchitect.com/lessons/)
 
 - 💬 Ask me about **Java, Spring, Docker, Kubernetes, Python, React,AI, ML, Deep Learning, NLP,Agentic AI,IAC (Terraform), Node**
 
