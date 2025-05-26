@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratappadhy2005&label=Profile%20views&color=0e75b6&style=flat" alt="pratappadhy2005" /> </p>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pratappadhy2005&theme=onedark&row=2&column=5" alt="pratappadhy2005" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pratappadhy2005&theme=gruvbox&row=2&column=5" alt="pratappadhy2005" /></a> </p>
 
 - 📝 I regularly read articles on [https://developertoarchitect.com/lessons/](https://developertoarchitect.com/lessons/)
 
