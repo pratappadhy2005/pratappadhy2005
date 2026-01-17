@@ -36,7 +36,23 @@ RESTful APIs & Backend Architecture
 
 Performance Optimization & Scalability
 
-- 📝 I regularly read articles on [https://developertoarchitect.com/lessons/](https://developertoarchitect.com/lessons/)
+### 📚 Continuous Learning
+
+📝 I regularly read articles on:
+
+* [https://developertoarchitect.com/lessons/](https://developertoarchitect.com/lessons/)
+* [https://martinfowler.com](https://martinfowler.com)
+* [https://aws.amazon.com/architecture/](https://aws.amazon.com/architecture/)
+* [https://microservices.io](https://microservices.io)
+* [https://engineering.linkedin.com](https://engineering.linkedin.com)
+
+🤖 AI & ML Resources:
+
+* [https://openai.com/research](https://openai.com/research)
+* [https://distill.pub](https://distill.pub)
+* [https://paperswithcode.com](https://paperswithcode.com)
+* [https://towardsdatascience.com](https://towardsdatascience.com)
+
 
 - 💬 Ask me about **Java, Spring, Docker, Kubernetes, Python, React,AI, ML, Deep Learning, NLP,Agentic AI,IAC (Terraform), Node**
 
