@@ -5,20 +5,20 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pratappadhy2005&theme=monokai&row=2&column=5" alt="pratappadhy2005" /></a> </p>
 
-🛠️ Tech Stack & Skills
-💻 Programming & Frameworks
+🛠️** Tech Stack & Skills**
+💻 **Programming & Frameworks**
 
 Java, Python, JavaScript
 
 Spring Boot, Node.js, React
 
-☁️ Cloud & DevOps
+☁️ **Cloud & DevOps**
 
 Docker, Kubernetes, Terraform (IaC)
 
 CI/CD, Microservices, Cloud-Native Architecture
 
-🤖 Artificial Intelligence
+🤖 **Artificial Intelligence**
 
 Machine Learning, Deep Learning
 
@@ -26,7 +26,7 @@ Natural Language Processing (NLP)
 
 Agentic AI Systems
 
-🧠 Core Engineering
+🧠** Core Engineering**
 
 System Design & Distributed Systems
 
