@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pratappadhy2005&theme=monokai&row=2&column=5" alt="pratappadhy2005" /></a> </p>
 
-🛠️** Tech Stack & Skills**
+🛠️**Tech Skills**
+
 💻 **Programming & Frameworks**
 
 Java, Python, JavaScript
@@ -26,7 +27,7 @@ Natural Language Processing (NLP)
 
 Agentic AI Systems
 
-🧠** Core Engineering**
+🧠**Core Engineering**
 
 System Design & Distributed Systems
 
