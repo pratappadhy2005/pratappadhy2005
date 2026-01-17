@@ -5,6 +5,35 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=pratappadhy2005&theme=monokai&row=2&column=5" alt="pratappadhy2005" /></a> </p>
 
+🛠️ Tech Stack & Skills
+💻 Programming & Frameworks
+
+Java, Python, JavaScript
+
+Spring Boot, Node.js, React
+
+☁️ Cloud & DevOps
+
+Docker, Kubernetes, Terraform (IaC)
+
+CI/CD, Microservices, Cloud-Native Architecture
+
+🤖 Artificial Intelligence
+
+Machine Learning, Deep Learning
+
+Natural Language Processing (NLP)
+
+Agentic AI Systems
+
+🧠 Core Engineering
+
+System Design & Distributed Systems
+
+RESTful APIs & Backend Architecture
+
+Performance Optimization & Scalability
+
 - 📝 I regularly read articles on [https://developertoarchitect.com/lessons/](https://developertoarchitect.com/lessons/)
 
 - 💬 Ask me about **Java, Spring, Docker, Kubernetes, Python, React,AI, ML, Deep Learning, NLP,Agentic AI,IAC (Terraform), Node**
