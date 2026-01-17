@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pratap Kumar Padhy</h1>
+<h1 align="center">Hi 👋, I’m Pratap Kumar Padhy — Building Scalable Systems, AI Enthusiast & Intelligent Applications</h1>
 <h2 align="center">I design and build scalable backend systems and intelligent applications, bridging the gap between software engineering and AI-driven solutions.</h2>
 <h3 align="center">A Java Engineer | Building Scalable Backend Systems | Cloud-Native & DevOps Enthusiast</h3>
 
