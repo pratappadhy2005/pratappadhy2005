@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratap Kumar Padhy</h1>
+<h3 align="center">I design and build scalable backend systems and intelligent applications, bridging the gap between software engineering and AI-driven solutions.</h3>
+<br>
+<br>
 <h3 align="center">A Java Engineer | Building Scalable Backend Systems | Cloud-Native & DevOps Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratappadhy2005&label=Profile%20views&color=0e75b6&style=flat" alt="pratappadhy2005" /> </p>
