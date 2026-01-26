@@ -45,7 +45,7 @@ Performance Optimization & Scalability
 * [https://aws.amazon.com/architecture/](https://aws.amazon.com/architecture/)
 * [https://microservices.io](https://microservices.io)
 * [https://engineering.linkedin.com](https://engineering.linkedin.com)
-* [[https://engineering.linkedin.com](https://engineerscodinghub.com)]
+* [[https://engineerscodinghub.com](https://engineerscodinghub.com)]
 
 🤖 AI & ML Resources:
 
