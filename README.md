@@ -37,7 +37,7 @@
 
 | Period | Organisation | Role |
 |--------|-------------|------|
-| Jan 2023 – Present | IAG, Melbourne | Principal Software Engineering Lead |
+| Jan 2023 – Present | IAG, Melbourne | Engineering Tech Lead |
 | Aug 2021 – Jan 2023 | NAB, Melbourne | Technology Lead / Architect |
 | Nov 2015 – Aug 2021 | Intershop Australia, APAC | Lead Java Developer / Solutions Architect |
 | May 2013 – Nov 2015 | Eperium Business Solutions | Lead Java Developer / Solutions Architect |
